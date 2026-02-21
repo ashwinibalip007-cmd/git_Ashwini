@@ -1,2 +1,3 @@
 welcome to zeal
 Welcome to git
+git is public 
